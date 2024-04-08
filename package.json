@@ -1,0 +1,9 @@
+{
+    "name": "api-meicm_cloud_computing_project",
+    "version": "0.0.1",
+    "description": "MEICM Cloud Computing Project API",
+    "dependencies": {
+        "express": "^4.19.2",
+        "mongodb": "^6.5.0"
+    }
+}
